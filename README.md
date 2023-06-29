@@ -1,6 +1,6 @@
 # Bike-Sales-Analysis
 
-The goal of this project is to gain a better understanding of bike sales by examining the data across different demographics. The analysis explores various aspects such as sales volume, revenue, customer demographics, and more. By analyzing this data, we can identify key insights and make data-driven decisions to optimize the sales strategies.
+The goal of this project is to gain a better understanding of bike sales by examining the data across different demographics using Excel. The analysis explores various aspects such as sales volume, revenue, customer demographics, and more. By analyzing this data, we can identify key insights and make data-driven decisions to optimize sales strategies.
 
 ## Data
 The analysis is based on a dataset that includes the following columns:
@@ -18,7 +18,7 @@ The analysis is based on a dataset that includes the following columns:
 - Region: The region where the customer is located.
 - Age: The age of the customer.
 - Age Brackets: Categorized age brackets for analysis.
-- Purchased Bike (yes/no): Whether the customer purchased a bike or not.
+- Purchased Bike: Whether the customer purchased a bike or not.
 
 The dataset provides a comprehensive view of the sales performance and allows us to perform in-depth analysis.
 
@@ -35,4 +35,4 @@ The analysis involves the following key steps:
 
 
 ## Dashboard
-The highlight of this project is the interactive dashboard that provides an intuitive interface to explore the bike sales data visually. The dashboard includes various visualizations and filters to allow users to customize their analysis and gain insights into different aspects of the sales performance. The dashboard provides a user-friendly experience and facilitates data-driven decision-making.
+The highlight of this project is the interactive dashboard that provides an intuitive interface to explore the bike sales data visually. The dashboard includes various visualizations and filters to allow users to customize their analysis and gain insights into different aspects of customer purchasing habits. The dashboard provides a user-friendly experience and facilitates data-driven decision-making.
